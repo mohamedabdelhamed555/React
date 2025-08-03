@@ -6,7 +6,7 @@ export default function Home() {
       <section className="bg-[#1abc9c] flex flex-col justify-center pt-20 min-h-screen">
         <div className="text-center">
           <img
-            src="public/images/avataaars.svg"
+            src="./images/avataaars.svg"
             alt="home image"
             width={250}
             className="py-4 mx-auto"
