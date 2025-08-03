@@ -15,12 +15,12 @@ export default function Portfolio() {
   }
 
   const images = [
-    "public/images/poert1.png",
-    "public/images/port2.png",
-    "public/images/port3.png",
-    "public/images/poert1.png",
-    "public/images/port2.png",
-    "public/images/port3.png",
+    "/images/poert1.png",
+    "/images/port2.png",
+    "/images/port3.png",
+    "/images/poert1.png",
+    "/images/port2.png",
+    "/images/port3.png",
   ]
 
   return (
